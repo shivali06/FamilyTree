@@ -1,3 +1,4 @@
+% By Shivali Choudhary
 % family1
 family([shanti,surendra],[[vj],[virendra,narendra]]).
 family([jyoti,narendra],[[shivali],[siddharth]]).
